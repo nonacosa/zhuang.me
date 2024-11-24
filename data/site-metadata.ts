@@ -1,7 +1,7 @@
 export const SITE_METADATA = {
-  title: `Mengke's blog - Mengke's coding journey`,
-  author: 'Mengke',
-  headerTitle: `Mengke's blog`,
+  title: `zhuang's blog - zhuang's coding journey`,
+  author: 'zhuang',
+  headerTitle: `zhuang's blog`,
   description:
     'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
   language: 'en-us',
@@ -16,7 +16,7 @@ export const SITE_METADATA = {
   analytics: {
     umamiAnalytics: {
       websiteId: process.env.NEXT_UMAMI_ID,
-      shareUrl: 'https://analytics.eu.umami.is/share/EqvpZYPABxaQA3mr/mengke.me',
+      shareUrl: 'https://analytics.eu.umami.is/share/EqvpZYPABxaQA3mr/zhuang.me',
     },
   },
   newsletter: {

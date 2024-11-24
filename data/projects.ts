@@ -15,7 +15,7 @@ export const PROJECTS: Project[] = [
   //   title: "MoonFox Data - Aurora's Big Data Brand",
   //   description: `The MoonFox Data brand portal includes iAPP, iBrand, iMarkting, Alternative Data and other parts, and users can obtain the Moon Fox big data service on the website.`,
   //   imgSrc: '/static/images/projects/moonfox.jpg',
-  //   url: 'https://moonfox.cn/en?ref=mengke.me',
+  //   url: 'https://moonfox.cn/en?ref=zhuang.me',
   //   builtWith: ['NextJS', 'React', 'ECharts', 'AntDesign', 'I18n', 'Gulp'],
   // },
   // {
@@ -44,11 +44,11 @@ export const PROJECTS: Project[] = [
   // },
   // {
   //   type: 'self',
-  //   title: "mengke.me - Mengke's coding journey",
+  //   title: "zhuang.me - zhuang's coding journey",
   //   description: '',
   //   imgSrc: '/static/images/home_page.webp',
-  //   repo: 'mk965/mengke.me',
-  //   url: 'https://mengke.me',
+  //   repo: 'mk965/zhuang.me',
+  //   url: 'https://zhuang.me',
   //   builtWith: ['NextJS', 'TailwindCSS', 'Typescript', 'Prisma', 'Umami'],
   // },
   // {
@@ -57,7 +57,7 @@ export const PROJECTS: Project[] = [
   //   description: `Qiankun Micro frontend integrates various frameworks, including Vue2, Vue3, React, NuxtJS, Angular, etc..`,
   //   imgSrc: '/static/images/projects/qiankun.png',
   //   repo: 'mk965/qiankun-demo',
-  //   url: 'https://mengke.me',
+  //   url: 'https://zhuang.me',
   //   builtWith: ['Qiankun', 'Vue', 'React', 'NuxtJS', 'Angular'],
   // },
   // {

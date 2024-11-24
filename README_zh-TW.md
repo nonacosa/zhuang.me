@@ -1,4 +1,4 @@
-<h1 align="center">mengke.me 🧑‍💻</h1>
+<h1 align="center">zhuang.me 🧑‍💻</h1>
 
 <div align="center">
 
@@ -27,11 +27,11 @@
 
 ## 演示
 
-演示站點：<https://mengke.me>
+演示站點：<https://zhuang.me>
 
 ## 如何部署一個同樣的博客？
 
-> 我这里只描述基本的操作步驟。如果你是零基礎或在部署過程中遇到任何問題，請發郵件給我：me@mengke.me。
+> 我这里只描述基本的操作步驟。如果你是零基礎或在部署過程中遇到任何問題，請發郵件給我：me@zhuang.me。
 
 ### 1. 安裝
 
@@ -47,7 +47,7 @@
 
 ### 3. 部署到 Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmk965%2Fmengke.me&env=NEXT_PUBLIC_GISCUS_REPO,NEXT_PUBLIC_GISCUS_REPOSITORY_ID,NEXT_PUBLIC_GISCUS_CATEGORY,NEXT_PUBLIC_GISCUS_CATEGORY_ID,NEXT_UMAMI_ID,SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET,SPOTIFY_REFRESH_TOKEN,DATABASE_URL,GITHUB_API_TOKEN&envDescription=Giscus%5CUmami%5CSpotify%5CData%5CGithub&envLink=https%3A%2F%2Fgithub.com%2Fmk965%2Fmengke.me%2Fblob%2Fmain%2F.env.example&project-name=mengke-me-blog&repository-name=mengke-me-blog&demo-title=mengke.me&demo-description=Mengke's%20blog%20-%20Mengke's%20coding%20journey&demo-url=https%3A%2F%2Fwww.mengke.me%2F&demo-image=https%3A%2F%2Fwww.mengke.me%2Fstatic%2Fimages%2Fhome_page.webp)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmk965%2Fzhuang.me&env=NEXT_PUBLIC_GISCUS_REPO,NEXT_PUBLIC_GISCUS_REPOSITORY_ID,NEXT_PUBLIC_GISCUS_CATEGORY,NEXT_PUBLIC_GISCUS_CATEGORY_ID,NEXT_UMAMI_ID,SPOTIFY_CLIENT_ID,SPOTIFY_CLIENT_SECRET,SPOTIFY_REFRESH_TOKEN,DATABASE_URL,GITHUB_API_TOKEN&envDescription=Giscus%5CUmami%5CSpotify%5CData%5CGithub&envLink=https%3A%2F%2Fgithub.com%2Fmk965%2Fzhuang.me%2Fblob%2Fmain%2F.env.example&project-name=zhuang-me-blog&repository-name=zhuang-me-blog&demo-title=zhuang.me&demo-description=zhuang's%20blog%20-%20zhuang's%20coding%20journey&demo-url=https%3A%2F%2Fwww.zhuang.me%2F&demo-image=https%3A%2F%2Fwww.zhuang.me%2Fstatic%2Fimages%2Fhome_page.webp)
 
 ### 4. 博文的訪問量也可以免費存儲在 Vercel 中
 
@@ -57,6 +57,6 @@
 
 3. 每篇博文的閱讀量會被自動統計到這個數據庫中。
 
-## ☕️ 支持 Mengke
+## ☕️ 支持 zhuang
 
 <a href='https://ko-fi.com/P5P2ZV7NP' target='_blank'><img height='50' style='border:0px;height:50px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

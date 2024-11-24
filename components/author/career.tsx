@@ -30,9 +30,9 @@ const EXPERIENCES = [
     },
   },
   {
-    org: 'mengke.me',
-    url: 'https://mengke.me/',
-    logo: '/static/images/career/mengke-logo.jpeg',
+    org: 'zhuang.me',
+    url: 'https://zhuang.me/',
+    logo: '/static/images/career/zhuang-logo.jpeg',
     start: 'May 2021',
     end: 'Feb 2022',
     title: 'Senior Software Engineer',
@@ -43,8 +43,8 @@ const EXPERIENCES = [
         <ul className="[&>li]:my-2 [&>li]:pl-0">
           <li>
             Built{' '}
-            <a target="_blank" rel="noopener noreferrer" href="https://mengke.me">
-              mengke.me
+            <a target="_blank" rel="noopener noreferrer" href="https://zhuang.me">
+              zhuang.me
             </a>{' '}
             - a very nice blog
           </li>

@@ -41,33 +41,28 @@ export function TypedBios() {
       ])}
     >
       <ul id="bios" className="hidden">
+        <li>I'm working from home.</li>
+
         <li>
-          I'm aliased as <span className="font-medium">Xiaoke</span> at work.
+          I live in <b className="font-medium">Harbin, China</b>.
         </li>
-        <li>I'm a learner, builder, and freedom seeker.</li>
+
         <li>
-          I live in <b className="font-medium">Peiping, China</b>.
-        </li>
-        <li>
-          I was born in the beautiful <b className="font-medium">Mount Tai</b>.
-        </li>
-        <li>
-          My first programming language I learned was <b className="font-medium">Javascript</b>.
+          My first programming language I learned was <b className="font-medium">C++</b>.
         </li>
         <li>I love web development.</li>
-        <li>I work mostly with JS/TS technologies.</li>
-        <li>I'm Chou's husband.</li>
         <li>
-          I'm a cat-person. <Twemoji emoji="cat" />
+          I'm <b className="font-medium">Expectant</b> Father.
         </li>
+
         <li>
-          I'm a sport-guy. I love
-          <span className="ml-1">
+          I'm a sport-guy. I go to gym every day.
+          {/* <span className="ml-1">
             <Twemoji emoji="soccer-ball" />,
             <Twemoji emoji="man-swimming" />,
             <Twemoji emoji="ping-pong" />,
             <Twemoji emoji="volleyball" />
-          </span>
+          </span> */}
         </li>
       </ul>
       <span ref={el} className="text-neutral-900 dark:text-neutral-200" />

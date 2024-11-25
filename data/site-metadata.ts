@@ -2,13 +2,12 @@ export const SITE_METADATA = {
   title: `zhuang's blog - zhuang's coding journey`,
   author: 'zhuang',
   headerTitle: `zhuang's blog`,
-  description:
-    'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
+  description: 'I am here to document my life ：>',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.zhuang.me',
   siteRepo: 'https://github.com/nonacosa/zhuang.me',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/profile.webp`,
+  siteLogo: `${process.env.BASE_PATH || ''}/static/images/profile.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
 
   locale: 'en-US',
@@ -16,7 +15,7 @@ export const SITE_METADATA = {
   analytics: {
     umamiAnalytics: {
       websiteId: process.env.NEXT_UMAMI_ID,
-      shareUrl: 'https://analytics.eu.umami.is/share/EqvpZYPABxaQA3mr/zhuang.me',
+      shareUrl: 'https://cloud.umami.is/share/hGwv3TOzpGVQqojs/zhuang.me',
     },
   },
   newsletter: {

@@ -1,31 +1,31 @@
 export const AUTHOR_INFO = {
-  name: 'zhuang',
+  name: 'Zhuang',
   description:
-    'A personal space on the cloud where I document my programming journey, sharing lessons, insights, and resources for fellow developers.',
-  email: 'me@zhuang.me',
+    'A backend engineer who is passionate about frontend development, with extensive experience in high concurrency and microservices.',
+  email: 'sis.nonacosa@gmail.com',
   identity: 'Learner | Builder',
   address: {
-    city: 'Peking, China',
-    flag: 'flag-china',
+    city: 'Harbin, China',
+    // flag: 'flag-china',
     timeZone: 8,
   },
   work: {
     company: '',
-    occupation: 'Front-End Engineer',
+    occupation: 'Full-Stack Engineer',
     location: 'Peking, China',
     website: '/',
   },
   social: {
     github: 'https://github.com/nonacosa',
-    x: '/',
+    x: 'https://x.com/sis_nonacosa',
     facebook: '/',
-    youtube: '/',
+    youtube: 'https://www.youtube.com/@wodixiaoge',
     linkedin: '/',
-    threads: 'https://www.threads.net/@_nonacosa',
+    threads: 'https://www.threads.net/@nonacosa',
     instagram: '/',
-    juejin: 'https://www.juejin.cn/user/4037062430299912#/zhuang',
+    juejin: 'https://juejin.cn/user/1380642333405501',
   },
   support: {
-    kofi: 'https://ko-fi.com/zhuang',
+    kofi: 'https://ko-fi.com/nonacosa',
   },
 }

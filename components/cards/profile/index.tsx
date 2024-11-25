@@ -66,10 +66,11 @@ export function ProfileCard() {
           src={SITE_METADATA.siteLogo}
           alt={SITE_METADATA.title}
           width={550}
-          height={350}
+          height={380}
           style={{
-            objectPosition: '50% 15%',
-            aspectRatio: '383/240',
+            // objectPosition: '50% 15%',
+            objectPosition: '50% 10%',
+            aspectRatio: '383/300',
           }}
           loading="eager"
         />

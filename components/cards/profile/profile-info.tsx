@@ -61,11 +61,11 @@ export function ProfileCardInfo() {
           <MapPin strokeWidth={1.5} size={20} />
           <p className="px-2">
             {AUTHOR_INFO.address.city}
-            {AUTHOR_INFO.address.flag && (
+            {/* {AUTHOR_INFO.address.flag && (
               <span className="absolute ml-1 inline-flex pt-px">
                 <Twemoji emoji={AUTHOR_INFO.address.flag} />
               </span>
-            )}
+            )} */}
           </p>
         </div>
         <div className="flex items-center text-gray-700 dark:text-gray-200">

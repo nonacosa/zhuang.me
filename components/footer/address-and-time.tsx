@@ -39,11 +39,11 @@ export function AddressAndTime() {
         <Map className="h-5 w-5" />
         <span className="font-medium">
           {AUTHOR_INFO.address.city}
-          {AUTHOR_INFO.address.flag && (
+          {/* {AUTHOR_INFO.address.flag && (
             <>
               , <Twemoji emoji={AUTHOR_INFO.address.flag} className="!h-4.5" />
             </>
-          )}
+          )} */}
         </span>
       </div>
       <div className="flex items-center gap-2">
